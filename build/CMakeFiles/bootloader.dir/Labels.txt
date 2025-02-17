@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/CMakeFiles/bootloader
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/CMakeFiles/bootloader.rule
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/CMakeFiles/bootloader-complete.rule
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+C:/Users/matsv/Documents/espressif/projects/esp_reflow_oven/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
